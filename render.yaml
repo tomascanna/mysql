@@ -1,0 +1,5 @@
+services:
+  - name: mysql
+  dockerfile: Dockerfile
+  env:
+    MYSQL_ROOT_PASSWORD: 12345
