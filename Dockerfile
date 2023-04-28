@@ -1,0 +1,2 @@
+FROM mysql:lastest
+ENV MYSQL_ROOT_PASWORD=12345
